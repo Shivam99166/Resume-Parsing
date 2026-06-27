@@ -1,0 +1,12 @@
+# Root gitignore
+# Ignore environment files
+backend/.env
+*.env
+.env
+
+# Node modules
+node_modules/
+
+# Python caches
+__pycache__/
+*.pyc
