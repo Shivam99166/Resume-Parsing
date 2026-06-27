@@ -1,6 +1,6 @@
-# 🤖 AI Resume Screener
+# 🤖HireSense AI
 
-An AI-powered ATS-inspired Resume Screening Platform that analyzes one or multiple resumes against a job description, generates AI-powered hiring insights, and automatically ranks candidates based on their relevance.
+An ATS-inspired candidate screening platform built with React, FastAPI, and Llama 3 that automatically analyzes, ranks, and compares multiple resumes against job descriptions using AI-powered skill matching and recruiter-focused insights.
 
 ---
 
